@@ -45,4 +45,4 @@ assignments written in under 20 lines of python.
 
 ## RUNNING THE CODE
 1) get inside the folder
-2) run the command -> node pairs.js
+2) run the command -> node index.js
